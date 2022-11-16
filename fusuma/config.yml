@@ -1,8 +1,8 @@
 swipe:
   3:
     left:
-      command: "xdotool key super+Left"
+      command: "xdotool key alt+Left"
     right:
-      command: "xdotool key super+Right"
+      command: "xdotool key alt+Right"
     up:
       command: "xdotool key super+Page_Up"
