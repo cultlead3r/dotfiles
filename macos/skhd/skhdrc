@@ -1,4 +1,5 @@
 # opens iTerm2
-ctrl + cmd - t : "${HOME}"/open_iterm2.sh
+ctrl + cmd - t : ~/.config/skhd/open_iterm2.sh
+
 ctrl + cmd - w : open -na Google\ Chrome
 ctrl + cmd - i : open -na Google\ Chrome --args --incognito
